@@ -1,4 +1,4 @@
-import { FaUserAstronaut } from 'react-icons/fa';
+import { MdSportsEsports } from 'react-icons/md';
 import { Link } from 'react-router-dom';
 import { Toggle } from '../index';
 
@@ -15,7 +15,7 @@ const Header = () => (
 				className='flex flex-col items-center gap-1 font-semibold sm:flex-row'
 				to='/'
 			>
-				<FaUserAstronaut className='text-lg' />
+				<MdSportsEsports className='text-lg' />
 				Multistep React Form
 			</Link>
 
