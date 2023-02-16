@@ -10,8 +10,7 @@ const Footer = () => (
 			<a
 				className='font-bold text-indigo-500 hover:text-indigo-800 transition-all sm:text-base dark:text-accent dark:hover:text-secondary'
 				target='_blank'
-				href='https://github.com/unnamedev/'
-			>
+				href='https://github.com/logicalOak/'>
 				logicalOak
 			</a>
 		</p>
